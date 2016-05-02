@@ -24,7 +24,7 @@ month[11] = "December";
 console.log("Månad" + month[4]);
 console.log("Jag är född i " + month[2]);
 
-var car = {color: "ful" hasAWheel: true, numberOfSeats: 4};
+var car = {color: "ful", hasAWheel: true, numberOfSeats: 4};
 
 var computer = {color: "grey", brand: "Mac"};
 
