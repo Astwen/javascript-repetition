@@ -21,6 +21,6 @@ month[9] = "Oktober";
 month[10] = "November";
 month[11] = "December";
 
-console.log("Månad" + month[1]);
-console.log("Jag är född i " + month[1]);
+console.log("Månad" + month[4]);
+console.log("Jag är född i " + month[2]);
 
