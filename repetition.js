@@ -56,6 +56,6 @@ console.log ("Andra landet är " + superMario64["countries"][1]);
 var soccerPlayer = {name: "Zlatan", orginalClub: {name: "Malmö FF", playedInChampionsLeauge: true, founded: 1901}};
 
 
-console.log("Året då Zlatans orginalklubb startades " + soccerPlayer.originalClub.founded);
+console.log("Året då Zlatans originalklubb startades " + soccerPlayer.originalClub.founded);
 console.log("Zlatans orginalklubb heter " + soccerPlayer[originalClub][founded]);
 
