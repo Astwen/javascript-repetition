@@ -4,5 +4,5 @@ var weekdays = ["Måndag", "Tisdag", "Onsdag", "Torsdag", "Fredag", "Lördag", "
 
 // Hämta ur vår array
 
-console.log("Exempel 1. Första veckodagen " + weekday[0]);
+console.log("Exempel 1. Första veckodagen " + weekdays[0]);
 
